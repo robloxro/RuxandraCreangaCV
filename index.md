@@ -1,16 +1,13 @@
 	Ruxandra Ioana Creanga
 
-Mobile phone:
-+40723198467
-Email:
-ruxi.jitianu@gmail.com
+## ruxi.jitianu@gmail.com
 	
 
-Software development professional.
+<i>Software development professional.
 Interested in managing all aspects of product development, which includes, engineering portfolio management, software development, quality engineering, and release management.
 Skilled in team and scope management, software delivery with areas of expertise that cover Java, Cloud(AWS), devops practices and systems integration.
 Ensuring the team members grow in their jobs by learning new skills and developing themselves.
-Curious about IT in general.  
+Curious about IT in general.  </i>
 	
 EXPERIENCE 		
 
